@@ -1,3 +1,4 @@
+# Text and Link Analyzer
 This is a simple web-based tool to analyze text content. It provides various metrics such as character count, word count, sentence count, paragraph count, and link count. The tool is user-friendly and can be used for text analysis purposes in a variety of contexts.
 
 Features
